@@ -1,0 +1,2 @@
+# perceptronPython
+Simple ml algoritm
