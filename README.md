@@ -1,2 +1,4 @@
 # perceptronPython
-Simple ml algoritm
+Simple ml algoritms
+
+1. Perceptron 
